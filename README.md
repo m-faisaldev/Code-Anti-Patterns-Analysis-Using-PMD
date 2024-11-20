@@ -26,5 +26,5 @@ The analysis identified several recurring code smells and anti-patterns, includi
 - **PMD Source Code Analyzer**: A static code analysis tool that helps detect code smells, anti-patterns, and violations of coding standards.
 - **CPD (Copy-Paste Detector)**: Identifies duplicated code across different files in the codebase.
 
-###**Run PMD to analyze the code:**
--**pmd.bat check -d c:\src -R rulesets/java/quickstart.xml -f text
+### **PMD Command to analyze the code**
+- **pmd.bat check -d c:\src -R rulesets/java/quickstart.xml -f text
