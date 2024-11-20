@@ -27,4 +27,4 @@ The analysis identified several recurring code smells and anti-patterns, includi
 - **CPD (Copy-Paste Detector)**: Identifies duplicated code across different files in the codebase.
 
 ### **PMD Command to analyze the code**
-- **pmd.bat check -d c:\src -R rulesets/java/quickstart.xml -f text
+- pmd.bat check -d c:\src -R rulesets/java/quickstart.xml -f text
